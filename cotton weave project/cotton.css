@@ -20,7 +20,7 @@ html,body{
 #left{
     height:100%;
     width:48%;
-    background-color: blue;
+    background-color:red;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
